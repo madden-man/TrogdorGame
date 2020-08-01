@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="trogdor">
-    <output-path>$PROJECT_DIR$/out/artifacts/trogdor</output-path>
-    <root id="archive" name="trogdor.jar">
-      <element id="module-output" name="Trogdor" />
-      <element id="dir-copy" path="$PROJECT_DIR$/src/META-INF/assets" />
-    </root>
-  </artifact>
-</component>
